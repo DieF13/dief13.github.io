@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family:'Roboto', sans-serif;
+    background-color: black;
+}
+
+.card-body {
+    height: 233;
+}
+nav img {
+    width: 160px;
+    height: 70px;
+}
+.navbar {
+}
+
+footer img {
+    width: 5rem;
+}
+
+.color1 {
+    color: aliceblue;
+}
+
+main img {
+
+}

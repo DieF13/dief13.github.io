@@ -6,7 +6,7 @@ body {
   }
   
   #Hero-Section {
-    background-image: url("../images/yo.jpg");
+    background-image: url(../images/yo3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -41,3 +41,23 @@ body {
     height: 70px;
   }
   
+  .mp-btn {
+    background-color: #ffc107;
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+    border-color:  #ffc107;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+
+  }
+
+  .mp-btn:hover {
+    background-color: white;
+    color: #ffc107;
+    border-color:  #ffc107;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+  }
